@@ -88,7 +88,7 @@ theme:
 logo:
   dark: docs/assets/logo-dark.svg
   light: docs/assets/logo.svg
-  height: 20
+  height: 40
   href: https://buildwithfern.com
 
 favicon: docs/assets/favicon.svg
